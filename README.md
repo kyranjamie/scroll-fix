@@ -1,7 +1,7 @@
 scroll-fix
 ==========
 
-Fixes browser scroll behaviour where, at the boundary of a boxes scroll height, its parent continues to scroll.
+Fixes browser scroll behaviour where, at the boundary of a box's scroll height, its parent continues to scroll.
 
 ## Usage
 
