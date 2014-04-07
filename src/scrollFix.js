@@ -1,4 +1,4 @@
-window.scrollFix = (function(document) {
+(function(document) {
   
   var elems = document.querySelectorAll('[scroll-fix]');
   
