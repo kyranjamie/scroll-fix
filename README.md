@@ -1,11 +1,22 @@
 scroll-fix
 ==========
 
-Fixes browser scroll behaviour where, at the bound of a boxes scroll height, its parent continutes to scroll.
+Fixes browser scroll behaviour where, at the boundary of a boxes scroll height, its parent continues to scroll.
 
+## Usage
 
-### Demo
+Apply the `scroll-fix` attribute to any element that may have overflowed content. 
 
-Animated gif speaks a thousand words.
+**n.b.** If the element does not have overflowed content, the page body (or elem parent) will not be prevented from scrolling.
+
+```html
+<body>
+  <textarea scroll-fix> ... </textarea>
+</body>
+```
+
+## Demo
+
+An animated gif speaks a thousand words.
 
 ![demo](/scrollfix.gif)
