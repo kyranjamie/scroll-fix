@@ -1,0 +1,20 @@
+{
+  "name": "scroll-fix",
+  "version": "1.0.0",
+  "description": "Prevents unwanted browser scroll behaviour",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kyranjamie/scroll-fix.git"
+  },
+  "author": "@kyranjamie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyranjamie/scroll-fix/issues"
+  },
+  "homepage": "https://github.com/kyranjamie/scroll-fix",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-uglify": "^0.2.1",
+    "gulp-rename": "^1.2.0"
+  }
+}
