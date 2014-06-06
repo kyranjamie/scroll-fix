@@ -1,4 +1,8 @@
 (function(document) {
+
+  /**
+   * @todo If element has overflowed children, allow scroll
+   */ 
   
   var elems = document.querySelectorAll('[scroll-fix]');
   
